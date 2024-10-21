@@ -72,5 +72,10 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
 </div>
+<div align="center">
+
+![snake gif](https://github.com/DouglasHennrik/DouglasHennrik/blob/output/github-snake-dark.svg)
+</div>
 
 ###
+
